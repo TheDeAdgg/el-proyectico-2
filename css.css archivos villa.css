@@ -1,0 +1,28 @@
+css.css
+* {
+    font-family: sans-serif;
+    background-color: slategray;
+    border: 3px;
+    border-style: dashed;
+}
+h1 {
+    color: snow;
+}
+h2 {
+    border-style:solid;
+}
+h3 {
+    border-style: initial;
+}
+h4 {
+    border-width: 1em;
+    border-style: groove;
+}
+h5 {
+    border-style: ridge;
+}
+h6 {
+    border-style: dotted;
+}
+
+
