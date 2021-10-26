@@ -1,4 +1,8 @@
-/* Todo elemento en HTML se representa 
+/* Todo elemento en HTML se representa como una caja*/
+/* CSS = Cascade StyleSheet = Hoja de 
+Estilo en cascada 
+* {
+    background-color: beige;
 h1 {
     font-family: sans-serif;
 }   
