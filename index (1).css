@@ -1,12 +1,12 @@
 /* CSS= cascade StyleSheet=hoja de estilo en cascada*/
-/colores : sistema hexodecimal
+
 * {
     background-color: beige;
     color: blueviolet;
 }
 h1 {
     font-family: sans-serif;
-    color: #f00;  / * R = red; G = Green ; B = blue
+    color: #f00;  
 }
 img{
     height: 300px;
