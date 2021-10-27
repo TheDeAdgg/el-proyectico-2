@@ -1,0 +1,12 @@
+/* CSS= cascade StyleSheet=hoja de estilo en cascada*/
+* {
+    background-color: beige;
+    color: blueviolet;
+}
+h1 {
+    font-family: sans-serif;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
